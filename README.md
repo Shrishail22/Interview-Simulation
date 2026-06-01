@@ -1,6 +1,3 @@
-
-# Run and deploy your AI Studio app
-
 **Prerequisites:**  Node.js
 
 
@@ -9,3 +6,6 @@
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+##link to access
+https://interview-simulation-self.vercel.app/
