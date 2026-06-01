@@ -1,0 +1,6 @@
+{
+  "name": "AI Interview Simulator",
+  "description": "A futuristic dark-themed technical interview practice assistant with voice-controlled AI, real-time feedback, and interactive Three.js speech visualization.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
